@@ -1,0 +1,9 @@
+.container-corpo{
+    background-color: #e6e6e6;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    
