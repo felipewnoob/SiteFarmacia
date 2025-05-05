@@ -1,8 +1,13 @@
-.container-navbar{
-    height: 130px;
-    background-color: #e23e57;
-    font-family: 'Courier New', Courier, monospace;
-    border: 5px solid #ef97a4;
-    }
-
-    
+.container-navbar {
+    background-color: var(--cor-1);
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    color: var(--cor-2);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .container-navbar h1 {
+    margin-left: 10px;
+    font-size: 1.8rem;
+  }

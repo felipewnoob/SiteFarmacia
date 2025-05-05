@@ -1,20 +1,12 @@
 import React from 'react'
 import './Navbar.css'
+import Logo from './Logo'
+
 function Navbar() {
   return (
-    <div>
-      
-      
-      <div className="container-navbar">
-        <h1>
-            Farmacia da Márcia 
-        </h1>
-
-
-      </div>
-    
-    
-    
+    <div className="container-navbar">
+      <Logo />
+      <h1>Farmácia da Márcia</h1>
     </div>
   )
 }
