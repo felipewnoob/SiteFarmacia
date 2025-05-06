@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className="container-navbar">
       <Logo />
-      <h1>Farmácia da Márcia</h1>
+      <h1 className='texto'>Farmácia da Márcia</h1>
     </div>
   )
 }

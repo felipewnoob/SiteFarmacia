@@ -12,11 +12,11 @@ function Corpo() {
       </div>
       <div className="banner-camisas">
         <h3>Veja Nossas Camisas</h3>
-        <img src={camisaFarmacia} className="camisa-farmacia.jpg" alt="era para ter uma imagem aqui..."  />
+        <img src={camisaFarmacia} className="camisa-farmacia" alt="era para ter uma imagem aqui..."  />
       </div>
       <Contato />
     </div>
   )
 }
 
-export default Corpo;
+export default Corpo

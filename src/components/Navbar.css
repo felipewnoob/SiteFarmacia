@@ -5,6 +5,11 @@
     align-items: center;
     color: var(--cor-2);
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    justify-content: center;
+    gap: 20px;
   }
   
-  
+  .texto{
+    font-size: 40px;
+    
+  }
